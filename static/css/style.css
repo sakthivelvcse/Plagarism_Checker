@@ -1,0 +1,48 @@
+.highlight {
+    background-color: #ffeb3b;
+    color: #000;
+    padding: 2px 0;
+    border-radius: 3px;
+    font-weight: 500;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+}
+
+.card {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+.navbar {
+    border-radius: 0 0 8px 8px;
+}
+
+pre {
+    white-space: pre-wrap;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+#previewArea {
+    background-color: #fafafa;
+    border-radius: 6px;
+    padding: 15px;
+}
+
+.table-sm {
+    font-size: 0.9rem;
+}
+
+.result-card {
+    margin-bottom: 15px;
+    border-left: 4px solid #0d6efd;
+}
+
+.comparison-table {
+    font-size: 0.85rem;
+}
+
+canvas {
+    max-height: 400px;
+    margin-top: 20px;
+}
